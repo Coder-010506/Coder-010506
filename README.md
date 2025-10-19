@@ -67,7 +67,13 @@ It stuck with me, and now it feels like part of who I am 🖤 — a reminder of 
 
 [![An image of @coder010506's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coder010506)](https://holopin.io/@coder010506)
 ---
+<h2 align="center">🏆 Github Profile Trophy</h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="80%" width="100%">
 ## 📈 Activity Graph  
 ![Keerthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coder-010506&theme=radical)  
 
