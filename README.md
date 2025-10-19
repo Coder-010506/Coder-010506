@@ -73,7 +73,7 @@ It stuck with me, and now it feels like part of who I am 🖤 — a reminder of 
 
 <a href="https://github-profile-trophy.vercel.app/?username=Coder-010506&no-bg=true">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="80%" width="100%">
+
 ## 📈 Activity Graph  
 ![Keerthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coder-010506&theme=radical)  
 
