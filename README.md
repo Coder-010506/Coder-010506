@@ -64,6 +64,7 @@ It stuck with me, and now it feels like part of who I am 🖤 — a reminder of 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coder-010506&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-010506&layout=compact&theme=radical)  
+[![An image of @coder010506's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coder010506)](https://holopin.io/@coder010506)
 
 ---
 
