@@ -1,98 +1,79 @@
-# Hi there 👋, I'm Bhukya Keerthana  
-Aspiring Software Engineer | Open Source Contributor | Tech Explorer 🚀  
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Bhukya+Keerthana;Aspiring+Software+Engineer;Open+Source+Enthusiast;Tech+Explorer" />
+</div>
 
-## 🌸 Why Coder-010506?  
-People often ask about my username — **Coder-010506**.  
-It’s actually my **DOB (01-05-06)** turned into a little identity I started using when I first got into coding.  
-It stuck with me, and now it feels like part of who I am 🖤 — a reminder of where I began and how far I want to go!  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
----
+## 💫 About Me
 
-## 👩‍💻 About Me  
-- 🎓 **B.Tech in Computer Science and Engineering** @ IIIT Jabalpur  
-- 🤝 Contributor @ **GirlScript Summer of Code (GSSoC) 2025**  
-- 🌍 Hackathon Enthusiast (**HackOrbit, Hack-4-Mini, Codein Clash**)  
-- 💡 Passionate about **building responsive, user-friendly, and impactful applications**  
-- 🧩 Always curious about **AI/ML, Full-Stack Development, and Cloud**  
-- ☕ Fuelled by caffeine + lo-fi beats while I code 🎧  
-- 🌸 Anime & design lover — always blending creativity with tech  
-
----
-
-## 🛠️ Tech Stack  
-
-**Frontend:**  
-`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`  
-
-**Backend:**  
-`Node.js` · `Express.js` · `Python`  
-
-**Databases:**  
-`MongoDB` · `Firebase`  
-
-**Tools & Platforms:**  
-`Git` · `GitHub` · `VS Code` · `Figma`  
-
----
-
-## 🎯 2025 Goals  
-- ✅ Contribute to **15+ Open Source PRs** (achieved via GSSoC ✨)  
-- 🚀 Build & launch **3+ full-stack projects**  
-- 🌍 Compete in **national-level hackathons**  
-- 📚 Master **TypeScript + Next.js**  
-- ☁️ Explore **DevOps and Cloud Technologies**  
-- 💼 Land a **Software Development Internship**  
-
----
-
-## 🏆 Achievements & Volunteering  
-- 🌟 **Top 30 out of 400+ teams** at HackOrbit 2025 (AI/ML innovation)  
-- ⚡ **Hack-4-Mini 2.0** – developed ML-based prototype as Team HackByte  
-- 🔥 Participated in **Codein Clash Hackathon** with 200+ developers  
-- 💻 Contributor to **Open Source Projects** via GSSoC 2025  
-- 🌍 Active member of **Women Techmakers** & **Women in Tech® Global**  
-- ❤️ Volunteer @ **Jagriti IIITDMJ** – contributing to education-focused outreach  
-
----
-
-## 📊 GitHub Stats  
-
-![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-010506&show_icons=true&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coder-010506&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-010506&layout=compact&theme=radical)  
-
-[![An image of @coder010506's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coder010506)](https://holopin.io/@coder010506)
----
-<h2 align="center">🏆 Github Profile Trophy</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Coder-010506&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://github-profile-trophy.vercel.app/?username=Coder-010506&no-bg=true">
+- 🎓 B.Tech CSE student at **IIIT Jabalpur**
+- 🌸 **GirlScript Summer of Code (GSSoC 2025)** Contributor
+- 📊 **Hacktoberfest 2025** Open Source Super Contributor
+- 💻 Interested in **Full-Stack Development, AI/ML & Cloud**
+- 🌱 Currently exploring **DevOps & scalable systems**
 
 
-## 📈 Activity Graph  
-![Keerthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coder-010506&theme=radical)  
+📫 **Reach me:** [921010keerthana@gmail.com](mailto:921010keerthana@gmail.com)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-## 🌟 Fun Facts  
-- My username is literally my **birthday (01-05-06)** 🎂  
-- My brain = endless ideas + ☕ caffeine  
-- Hackathons = my playground 🏆  
-- Anime + lo-fi beats = perfect coding combo 🎧  
-- Believe in **“Learning by Building”** 🚀  
+## 🌐 Socials
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhukya-keerthana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Coder-010506">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-## 🤝 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhukya-keerthana/)  
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:921010keerthana@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Coder-010506)  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
----
+## 💻 Tech Stack
 
-⭐ Thanks for scrolling through! Drop a ⭐ on repos you find interesting — it means a lot 💜  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,figma,tailwind&theme=dark" />
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-010506&theme=radical" height="170"/>
+</p>
+
+
+## 🧩 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@coder010506">
+    <img src="https://holopin.me/coder010506"/>
+  </a>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-010506&theme=radical"/>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+cool+together+🚀" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Coder-010506&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
