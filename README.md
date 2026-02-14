@@ -70,9 +70,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+cool+together+🚀" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Coder-010506&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
